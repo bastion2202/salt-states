@@ -1,6 +1,6 @@
 essentials:
   pkg.installed:
-    pkgs:
+    - pkgs:
       - htop
       - git
       - vim
